@@ -1,4 +1,4 @@
 * mkcss
-** TODO
+*** TODO
  - strip block comments
  - learn awk
