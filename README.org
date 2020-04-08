@@ -1,4 +1,0 @@
-* mkcss
-*** Stuff Todo
- - strip block comments
- - learn awk
