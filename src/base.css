@@ -1,1 +1,6 @@
-html {}
+html {
+    color: blue;
+    background-color: ^green^;
+}
+/* comment */
+body {}
